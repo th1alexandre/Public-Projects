@@ -1,1 +1,1 @@
-### Aqui eu colocarei meus projetos pessoais com o objetivo de, provavelmente, mas não exclusivamente, demonstrar competência e experiência em ferramentas estudadas.
+### Na pasta SGA há um trabalho realizado para uma disciplina da faculdade (Algoritmos e Programação II - linguagem C)
